@@ -1,7 +1,3 @@
-Вот перевод на английский:
-
----
-
 # reline\_local
 
 ## Installation and Launch
